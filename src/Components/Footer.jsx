@@ -30,6 +30,7 @@ const Footer = () => {
           <p>near Samaypur Badli metro station</p>
           <p>Delhi-110042</p>
           <p className="mt-2">unitedpharma0123@gmail.com</p>
+          <p className="mt-2">+91 1149072379</p>
         </div>
 
         {/* Services */}

@@ -14,37 +14,37 @@ import girl3 from "../assets/girl3.jpg";
 
 const testimonials = [
   {
-    name: "Mackenzie Baeszler",
+    name: "Aarav Mehta",
     content:
       "This pharmacy has been my go-to for years. The staff is incredibly knowledgeable and always willing to answer my questions. I never have to wait long for prescriptions either!",
     image: men1,
   },
   {
-    name: "John Rivera",
+    name: "Rohan Iyer",
     content:
       "I appreciate how this pharmacy goes the extra mile. They remind me when it's time to refill, and they've even delivered my meds during bad weather. Truly amazing service.",
     image: men2,
   },
   {
-    name: "Amina Qureshi",
+    name: "Priya Sharma",
     content:
       "Super helpful team! I had a complicated insurance situation, but they handled it smoothly. The pharmacist was patient and explained everything clearly.",
     image: girl1,
   },
   {
-    name: "Raj Patel",
+    name: "Aniket Deshmukh",
     content:
       "Clean, fast, and reliable. I get both my prescriptions and over-the-counter needs here. They always have what I need in stock, unlike some chain stores.",
     image: men3,
   },
   {
-    name: "Elena Martinez",
+    name: "Meera Nair",
     content:
       "This pharmacy treats you like family. They remember your name, your meds, and genuinely care about your health. I wouldn’t go anywhere else.",
     image: girl2,
   },
   {
-    name: "Lucas Thompson",
+    name: "Kunal Bhattacharya",
     content:
       "Great customer service! The pharmacist took time to explain possible side effects of my medication and made me feel confident about what I was taking.",
     image: men4,
@@ -56,13 +56,13 @@ const testimonials = [
     image: girl3,
   },
   {
-    name: "Mark Jenkins",
+    name: "Siddharth Reddy",
     content:
       "Hands down the best pharmacy in the area. Great prices, super clean store, and friendly staff. They even helped me find a generic alternative to save money.",
     image: men2,
   },
   {
-    name: "Sophia Lim",
+    name: "Ananya Pillai",
     content:
       "I was traveling and needed an urgent refill. This pharmacy helped me without any hassle. So grateful for their quick and caring response!",
     image: girl3,
@@ -74,6 +74,7 @@ const testimonials = [
     image: men3,
   },
 ];
+
 
 export default function TestimonialsCarousel() {
   return (
