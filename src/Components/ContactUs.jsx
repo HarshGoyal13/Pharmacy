@@ -28,7 +28,7 @@ const ContactForm = () => {
     setButtonText("Sending...");
 
     try {
-      const response = await fetch("http://localhost:8080/contact", {
+      const response = await fetch("https://pharmacy-1-f5x1.onrender.com/contact", {
         method: "POST",
         headers: { "Content-Type": "application/json;charset=utf-8" },
         body: JSON.stringify(formDetails),
