@@ -80,7 +80,7 @@ export default function TestimonialsCarousel() {
   return (
     <div className="w-full px-4 py-12 md:px-20 bg-gray-50 relative">
       <h2 className="text-4xl md:text-5xl font-bold text-center mb-12 text-[#330000] text-shadow-2xs">
-        REVIEWS OF OUR PHARMACY
+        REVIEWS
       </h2>
 
       {/* Navigation Arrows */}
